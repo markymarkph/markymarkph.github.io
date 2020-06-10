@@ -423,7 +423,7 @@ h6 { font-size: 18px; }
 .ico-scroll,
 .ico-training,
 .ico-training-hover,
-.logo { background: url(images/spirte.png) no-repeat 0 0; display: inline-block; }
+.logo { background: url(css/images/sprite.png) no-repeat 0 0; display: inline-block; }
 
 
 .ico-coaching-hover { width: 146px; height: 158px; background-position: 0px 0px; }
