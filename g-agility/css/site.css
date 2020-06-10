@@ -134,7 +134,7 @@ h6 { font-size: 18px; }
   Container
 \* ------------------------------------------------------------ */
 
-.container { background: url(images/intro.jpg) no-repeat 0 0; background-size: cover; }
+.container { background: url(css/images/intro.png) no-repeat 0 0; background-size: cover; }
 
 /* ------------------------------------------------------------ *\
   Shell
